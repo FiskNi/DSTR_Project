@@ -4,10 +4,14 @@ Real-time mesh fracturing with dynamic impact locations
 ![Preview](/images/t_breach_200p.png)
 
 
-Project code for an exam paper at BTH:
+Project code for an exam paper at BTH:<br/>
 [Exam paper](http://urn.kb.se/resolve?urn=urn:nbn:se:bth-20161)
 
-Preview of an early version: 
+Long showcase of system used in game project:<br/>
+[YouTube](https://www.youtube.com/watch?v=hcoZHOtVjFQ)<br/>
+[GitHub for game project](https://github.com/StevenCederrand/Night-of-the-Wizardlings)
+
+Preview of an early version:<br/>
 [YouTube](https://www.youtube.com/watch?v=BI4-15FmDBQ)
 
 
