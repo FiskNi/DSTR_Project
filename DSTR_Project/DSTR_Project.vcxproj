@@ -193,10 +193,6 @@
     <ClCompile Include="DSTR-Project\FractureGenerator.cpp" />
     <ClCompile Include="System\BulletDebugDrawer.cpp" />
     <ClCompile Include="States\DestructionTester.cpp" />
-    <ClCompile Include="Destruction\DelaunayGenerator.cpp" />
-    <ClCompile Include="Destruction\DstrGenerator.cpp" />
-    <ClCompile Include="Destruction\PointCompare.cpp" />
-    <ClCompile Include="Destruction\VoroniClipper.cpp" />
     <ClCompile Include="GameObject\MapObject.cpp" />
     <ClCompile Include="GFX\Pointlight.cpp" />
     <ClCompile Include="Mesh\AnimationMap.cpp" />
@@ -248,7 +244,6 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Destruction\VoroniCalculator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DSTR-Project\DebugObjects.h" />
@@ -257,14 +252,7 @@
     <ClInclude Include="DSTR-Project\jc_voronoi.h" />
     <ClInclude Include="DSTR-Project\jc_voronoi_clip.h" />
     <ClInclude Include="System\BulletDebugDrawer.h" />
-    <ClInclude Include="Destruction\DstrFormats.h" />
     <ClInclude Include="States\DestructionTester.h" />
-    <ClInclude Include="Destruction\DelaunayGenerator.h" />
-    <ClInclude Include="Destruction\DstrGenerator.h" />
-    <ClInclude Include="Destruction\Geometry.h" />
-    <ClInclude Include="Destruction\PointCompare.h" />
-    <ClInclude Include="Destruction\TriangleNode.h" />
-    <ClInclude Include="Destruction\VoroniClipper.h" />
     <ClInclude Include="GameObject\MapObject.h" />
     <ClInclude Include="GFX\Pointlight.h" />
     <ClInclude Include="Mesh\AnimationMap.h" />
@@ -305,7 +293,6 @@
     <ClInclude Include="System\Timer.h" />
     <ClInclude Include="System\UniqueIndex.h" />
     <ClInclude Include="Texture\stb_image.h" />
-    <ClInclude Include="Destruction\VoroniCalculator.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="GameObject\GameObject.h" />
