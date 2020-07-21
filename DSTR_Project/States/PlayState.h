@@ -45,8 +45,8 @@ private:
 	std::vector<GameObject*> m_objects;
 	std::vector<Pointlight*> m_pointlights;
 
-	DstrGenerator m_dstr;
-	DstrGenerator m_dstr_alt1;
+	/*DstrGenerator m_dstr;
+	DstrGenerator m_dstr_alt1;*/
 
 	Player* m_player;
 	Camera* m_camera;

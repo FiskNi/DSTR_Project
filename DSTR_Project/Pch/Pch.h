@@ -63,15 +63,6 @@
 #include <GameObject/ObjectTypes.h>	
 
 // DSTR
-#include <Destruction/DstrFormats.h>
-#include <Destruction/TriangleNode.h>
-#include <Destruction/Geometry.h>
-#include <Destruction/DelaunayGenerator.h>
-#include <Destruction/VoroniCalculator.h>
-#include <Destruction/VoroniClipper.h>
-
-
-#include <Destruction/DstrGenerator.h>
 #include <DSTR-Project/FractureGenerator.h>
 
 
