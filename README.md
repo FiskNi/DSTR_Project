@@ -2,7 +2,7 @@
 Real-time mesh fracturing with dynamic impact locations. Developed for my Bachelor's Thesis.<br/>
 ![Preview](/images/ezgif-2-fd182333765a.gif)<br/>
 
-Links:<br/>
+# Links
 [YouTube](https://www.youtube.com/watch?v=aCtCb6J7cbE)<br/>
 
 [Release](https://github.com/FiskNi/DSTR_Project/releases/tag/v1.0)<br/>
