@@ -5,7 +5,7 @@ Real-time mesh fracturing with dynamic impact locations. Developed for my Bachel
 # Links
 [YouTube](https://www.youtube.com/watch?v=aCtCb6J7cbE)<br/>
 
-[Release](https://github.com/FiskNi/DSTR_Project/releases/tag/v1.0)<br/>
+[Demo Application](https://github.com/FiskNi/DSTR_Project/releases/tag/v1.0)<br/>
 [Voronoi Library](https://github.com/JCash/voronoi)<br/>
 
 [Thesis](http://urn.kb.se/resolve?urn=urn:nbn:se:bth-20161)<br/>
