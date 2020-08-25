@@ -1,5 +1,6 @@
 # DSTR_Project
 Real-time mesh fracturing with dynamic impact locations. Developed for my Bachelor's Thesis.<br/>
+
 ![Preview](/images/ezgif-2-fd182333765a.gif)<br/>
 
 # Links
