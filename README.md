@@ -16,7 +16,7 @@ Real-time mesh fracturing with dynamic impact locations. Developed for my Bachel
 
 # About
 
-This implementation uses 2D Voronoi diagrams as fracture patterns which are clipped with the polygon where an impact occurs. To lift the result into 3D, each resulting diagram cell is extruded in one direction based on the depth of the original mesh.
+This implementation uses 2D Voronoi diagrams as fracture patterns which are clipped with the polygon where an impact occurs. There is no pre-fragmentation. To lift the result into 3D, each resulting diagram cell is extruded in one direction based on the depth of the original mesh.
 The Voronoi diagrams themselves were implemented with the help of jc_voronoi (https://github.com/JCash/voronoi). 
 More details can be found in the Thesis itelf, but overall it's a fairly simple implementation.
 
